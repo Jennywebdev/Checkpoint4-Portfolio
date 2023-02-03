@@ -1,0 +1,45 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  background-image: url("../../assets/geonoir.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  min-height: 100vh; /*100 vh = hauteur de l'écan*/
+  align-items: center;
+  justify-content: space-around;
+}
+
+.prez {
+  color: white;
+  display: flex;
+  padding: 50px;
+  margin: 10px;
+  margin-right: 700px;
+  background-color: black;
+  border-radius: 20em;
+  box-shadow: 20px 20px 20px white;
+  justify-content: flex-start;
+  width: 50%;
+}
+
+.langages {
+  color: white;
+  padding: 50px;
+  margin: 10px;
+  background-color: black;
+  border-radius: 20em;
+  box-shadow: 20px 20px 20px white;
+  justify-content: center;
+}
+
+.softskills {
+  color: white;
+  padding: 50px;
+  margin: 10px;
+  margin-left: 700px;
+  background-color: black;
+  border-radius: 20em;
+  box-shadow: 20px 20px 20px white;
+  justify-content: flex-end;
+}

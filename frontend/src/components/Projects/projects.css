@@ -1,0 +1,38 @@
+.projectspage {
+  background-size: cover;
+  width: 100vw;
+  height: 200vh;
+  /*position:absolute*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flip-card {
+  width: 400px;
+  height: 600px;
+  text-align: center;
+  /*position: relative;*/
+  border: 1px solid white;
+  background-image: url("../../assets/mac.jpg");
+  border-radius: 2em;
+  margin: 2em;
+  box-shadow: 10px 10px 10px white;
+}
+
+.ordinateur {
+  width: 60%;
+  height: 50%;
+}
+
+.cardbody {
+  color: white;
+  padding: 2em;
+}
+
+.cardfooter {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
