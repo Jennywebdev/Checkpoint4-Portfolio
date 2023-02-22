@@ -52,7 +52,7 @@ const Projects = () => {
       <div className="flip-card">
         <img src={mac} alt="Projet4" className="ordinateur" />
         <div className="cardbody">
-          <p>Title : Hackaton 1</p>
+          <p>Title : The Good Trotters</p>
           <p>Date : Novembre 2022</p>
           <p>Langages : REACT, EXPRESS, NODE.JS</p>
           <p>

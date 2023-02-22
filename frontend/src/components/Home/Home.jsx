@@ -16,7 +16,9 @@ const Home = () => {
       </div>
       <div className="langages">
         <h1>Langages</h1>
-        <p>HTML - CSS - JAVASCRIPT - REACT - NODE.JS - EXPRESS.JS</p>
+        <p>
+          HTML - CSS - JAVASCRIPT - REACT - NODE.JS - EXPRESS.JS - GIT - GITHUB
+        </p>
       </div>
       <div className="softskills">
         <h1>Soft Skills</h1>
